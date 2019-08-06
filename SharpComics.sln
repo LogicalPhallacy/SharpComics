@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpComicTestApp", "SharpComicsTest\SharpComicTestApp.csproj", "{EFEB29F8-508D-4063-B922-E7FAA4B1F266}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpComics", "SharpComics\SharpComics.csproj", "{F12156E2-B696-419A-BB50-64FF4332628D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEB29F8-508D-4063-B922-E7FAA4B1F266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEB29F8-508D-4063-B922-E7FAA4B1F266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEB29F8-508D-4063-B922-E7FAA4B1F266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEB29F8-508D-4063-B922-E7FAA4B1F266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F12156E2-B696-419A-BB50-64FF4332628D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12156E2-B696-419A-BB50-64FF4332628D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12156E2-B696-419A-BB50-64FF4332628D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12156E2-B696-419A-BB50-64FF4332628D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70BEC70E-7728-470F-8AB8-778AFFCD23CA}
+	EndGlobalSection
+EndGlobal
