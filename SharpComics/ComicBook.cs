@@ -75,7 +75,6 @@ namespace SharpComics
 
             //TODO: Other Formats
 
-
             if (shouldParse)
             {
                 this.MetaData = parser.ParseComicInfo(filestream);

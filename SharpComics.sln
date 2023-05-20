@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpComicTestApp", "SharpComicsTest\SharpComicTestApp.csproj", "{EFEB29F8-508D-4063-B922-E7FAA4B1F266}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "comictag", "comictag\comictag.csproj", "{EFEB29F8-508D-4063-B922-E7FAA4B1F266}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpComics", "SharpComics\SharpComics.csproj", "{F12156E2-B696-419A-BB50-64FF4332628D}"
 EndProject
